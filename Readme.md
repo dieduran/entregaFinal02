@@ -10,3 +10,6 @@ npm install
 
 node src/main
 
+## Nota
+
+Ver en src/config.js que estan modificadas las credenciales para firebase
