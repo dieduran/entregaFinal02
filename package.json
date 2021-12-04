@@ -1,0 +1,19 @@
+{
+  "name": "entregafinal2",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Entrega final parte 2",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^10.0.0",
+    "mongocli": "0.0.1",
+    "mongodb": "^4.2.1"
+  }
+}
